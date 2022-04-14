@@ -1,0 +1,535 @@
+{
+ "type": "program",
+ "body": [
+  {
+   "type": "assignment",
+   "var_name": {
+    "type": "variable_keyword",
+    "value": "meri wali hai",
+    "text": "meri wali hai",
+    "offset": 19,
+    "lineBreaks": 0,
+    "line": 3,
+    "col": 2
+   },
+   "parameters": [
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "a",
+      "text": "a",
+      "offset": 33,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 16
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 35,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 18
+     },
+     "value": {
+      "type": "number",
+      "value": 4,
+      "text": "4",
+      "offset": 37,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 20
+     }
+    },
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "b",
+      "text": "b",
+      "offset": 41,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 24
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 43,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 26
+     },
+     "value": {
+      "type": "number",
+      "value": 5,
+      "text": "5",
+      "offset": 45,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 28
+     }
+    }
+   ]
+  },
+  {
+   "type": "assignment",
+   "var_name": {
+    "type": "variable_keyword",
+    "value": "meri wali hai",
+    "text": "meri wali hai",
+    "offset": 49,
+    "lineBreaks": 0,
+    "line": 4,
+    "col": 2
+   },
+   "parameters": [
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "c",
+      "text": "c",
+      "offset": 63,
+      "lineBreaks": 0,
+      "line": 4,
+      "col": 16
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 65,
+      "lineBreaks": 0,
+      "line": 4,
+      "col": 18
+     },
+     "value": {
+      "type": "string",
+      "value": "\"bandi ki language hai\"",
+      "text": "\"bandi ki language hai\"",
+      "offset": 67,
+      "lineBreaks": 0,
+      "line": 4,
+      "col": 20
+     }
+    }
+   ]
+  },
+  {
+   "type": "print_function",
+   "fun_name": {
+    "type": "print_keyword",
+    "value": "thats what she said",
+    "text": "thats what she said",
+    "offset": 96,
+    "lineBreaks": 0,
+    "line": 6,
+    "col": 2
+   },
+   "parameters": [
+    {
+     "type": "identifier",
+     "value": "c",
+     "text": "c",
+     "offset": 116,
+     "lineBreaks": 0,
+     "line": 6,
+     "col": 22
+    },
+    {
+     "type": "string",
+     "value": "\" !!\"",
+     "text": "\" !!\"",
+     "offset": 119,
+     "lineBreaks": 0,
+     "line": 6,
+     "col": 25
+    }
+   ]
+  },
+  {
+   "type": "loops",
+   "var_name": {
+    "type": "loop",
+    "value": "wo degi jab bhi",
+    "text": "wo degi jab bhi",
+    "offset": 129,
+    "lineBreaks": 0,
+    "line": 8,
+    "col": 2
+   },
+   "conditions": {
+    "var_name1": {
+     "type": "identifier",
+     "value": "a",
+     "text": "a",
+     "offset": 147,
+     "lineBreaks": 0,
+     "line": 8,
+     "col": 20
+    },
+    "condoperator": {
+     "type": "conditionalOp",
+     "value": "<",
+     "text": "<",
+     "offset": 149,
+     "lineBreaks": 0,
+     "line": 8,
+     "col": 22
+    },
+    "var_name2": {
+     "type": "number",
+     "value": 20,
+     "text": "20",
+     "offset": 151,
+     "lineBreaks": 0,
+     "line": 8,
+     "col": 24
+    }
+   },
+   "statements": [
+    {
+     "type": "condition_loop",
+     "var_name": {
+      "type": "ifblock",
+      "value": "ya toh meri wali sahi",
+      "text": "ya toh meri wali sahi",
+      "offset": 159,
+      "lineBreaks": 0,
+      "line": 9,
+      "col": 3
+     },
+     "conditions": {
+      "var_name1": {
+       "type": "identifier",
+       "value": "a",
+       "text": "a",
+       "offset": 182,
+       "lineBreaks": 0,
+       "line": 9,
+       "col": 26
+      },
+      "condoperator": {
+       "type": "conditionalOp",
+       "value": "==",
+       "text": "==",
+       "offset": 184,
+       "lineBreaks": 0,
+       "line": 9,
+       "col": 28
+      },
+      "var_name2": {
+       "type": "number",
+       "value": 9,
+       "text": "9",
+       "offset": 188,
+       "lineBreaks": 0,
+       "line": 9,
+       "col": 32
+      }
+     },
+     "statements": [
+      {
+       "type": "print_function",
+       "fun_name": {
+        "type": "print_keyword",
+        "value": "thats what she said",
+        "text": "thats what she said",
+        "offset": 196,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 4
+       },
+       "parameters": [
+        {
+         "type": "string",
+         "value": "\"a = \"",
+         "text": "\"a = \"",
+         "offset": 216,
+         "lineBreaks": 0,
+         "line": 10,
+         "col": 24
+        },
+        {
+         "type": "identifier",
+         "value": "a",
+         "text": "a",
+         "offset": 224,
+         "lineBreaks": 0,
+         "line": 10,
+         "col": 32
+        }
+       ]
+      }
+     ],
+     "ifelseparameters": [
+      {
+       "type": "loop_if_else",
+       "var_name": {
+        "type": "elseifblock",
+        "value": "ya ye wali",
+        "text": "ya ye wali",
+        "offset": 234,
+        "lineBreaks": 0,
+        "line": 12,
+        "col": 3
+       },
+       "conditions": {
+        "var_name1": {
+         "type": "identifier",
+         "value": "a",
+         "text": "a",
+         "offset": 246,
+         "lineBreaks": 0,
+         "line": 12,
+         "col": 15
+        },
+        "condoperator": {
+         "type": "conditionalOp",
+         "value": "==",
+         "text": "==",
+         "offset": 248,
+         "lineBreaks": 0,
+         "line": 12,
+         "col": 17
+        },
+        "var_name2": {
+         "type": "number",
+         "value": 9,
+         "text": "9",
+         "offset": 251,
+         "lineBreaks": 0,
+         "line": 12,
+         "col": 20
+        }
+       },
+       "statements": [
+        {
+         "type": "print_function",
+         "fun_name": {
+          "type": "print_keyword",
+          "value": "thats what she said",
+          "text": "thats what she said",
+          "offset": 259,
+          "lineBreaks": 0,
+          "line": 13,
+          "col": 4
+         },
+         "parameters": [
+          {
+           "type": "string",
+           "value": "\"andar wali\"",
+           "text": "\"andar wali\"",
+           "offset": 279,
+           "lineBreaks": 0,
+           "line": 13,
+           "col": 24
+          }
+         ]
+        },
+        {
+         "type": "updated_list",
+         "parameters": [
+          {
+           "type": "update",
+           "var_name": {
+            "type": "identifier",
+            "value": "a",
+            "text": "a",
+            "offset": 296,
+            "lineBreaks": 0,
+            "line": 14,
+            "col": 4
+           },
+           "operator": {
+            "type": "assignmentOp",
+            "value": "+=",
+            "text": "+=",
+            "offset": 298,
+            "lineBreaks": 0,
+            "line": 14,
+            "col": 6
+           },
+           "value": {
+            "type": "identifier",
+            "value": "b",
+            "text": "b",
+            "offset": 301,
+            "lineBreaks": 0,
+            "line": 14,
+            "col": 9
+           }
+          }
+         ]
+        },
+        {
+         "type": "continue_break_cond",
+         "value": {
+          "type": "breakCont",
+          "value": "rukna mat",
+          "text": "rukna mat",
+          "offset": 307,
+          "lineBreaks": 0,
+          "line": 15,
+          "col": 4
+         }
+        }
+       ]
+      },
+      {
+       "type": "loop_if_else",
+       "var_name": {
+        "type": "elseifblock",
+        "value": "ya ye wali",
+        "text": "ya ye wali",
+        "offset": 325,
+        "lineBreaks": 0,
+        "line": 17,
+        "col": 3
+       },
+       "conditions": {
+        "var_name1": {
+         "type": "identifier",
+         "value": "a",
+         "text": "a",
+         "offset": 337,
+         "lineBreaks": 0,
+         "line": 17,
+         "col": 15
+        },
+        "condoperator": {
+         "type": "conditionalOp",
+         "value": ">",
+         "text": ">",
+         "offset": 339,
+         "lineBreaks": 0,
+         "line": 17,
+         "col": 17
+        },
+        "var_name2": {
+         "type": "number",
+         "value": 10,
+         "text": "10",
+         "offset": 341,
+         "lineBreaks": 0,
+         "line": 17,
+         "col": 19
+        }
+       },
+       "statements": [
+        {
+         "type": "print_function",
+         "fun_name": {
+          "type": "print_keyword",
+          "value": "thats what she said",
+          "text": "thats what she said",
+          "offset": 350,
+          "lineBreaks": 0,
+          "line": 18,
+          "col": 4
+         },
+         "parameters": [
+          {
+           "type": "string",
+           "value": "\"aur andar wali\"",
+           "text": "\"aur andar wali\"",
+           "offset": 370,
+           "lineBreaks": 0,
+           "line": 18,
+           "col": 24
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "loop_else",
+       "var_name": {
+        "type": "elseblock",
+        "value": "ya fir ye wali",
+        "text": "ya fir ye wali",
+        "offset": 395,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 3
+       },
+       "statements": [
+        {
+         "type": "print_function",
+         "fun_name": {
+          "type": "print_keyword",
+          "value": "thats what she said",
+          "text": "thats what she said",
+          "offset": 415,
+          "lineBreaks": 0,
+          "line": 21,
+          "col": 4
+         },
+         "parameters": [
+          {
+           "type": "string",
+           "value": "\"b = \"",
+           "text": "\"b = \"",
+           "offset": 435,
+           "lineBreaks": 0,
+           "line": 21,
+           "col": 24
+          },
+          {
+           "type": "identifier",
+           "value": "b",
+           "text": "b",
+           "offset": 442,
+           "lineBreaks": 0,
+           "line": 21,
+           "col": 31
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "updated_list",
+     "parameters": [
+      {
+       "type": "update",
+       "var_name": {
+        "type": "identifier",
+        "value": "a",
+        "text": "a",
+        "offset": 451,
+        "lineBreaks": 0,
+        "line": 23,
+        "col": 2
+       },
+       "operator": {
+        "type": "assignmentOp",
+        "value": "+=",
+        "text": "+=",
+        "offset": 453,
+        "lineBreaks": 0,
+        "line": 23,
+        "col": 4
+       },
+       "value": {
+        "type": "identifier",
+        "value": "b",
+        "text": "b",
+        "offset": 456,
+        "lineBreaks": 0,
+        "line": 23,
+        "col": 7
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

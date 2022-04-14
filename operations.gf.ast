@@ -1,0 +1,1338 @@
+{
+ "type": "program",
+ "body": [
+  {
+   "type": "operations",
+   "opslist": [
+    {
+     "type": "operation",
+     "value": {
+      "type": "number",
+      "value": 67,
+      "text": "67",
+      "offset": 213,
+      "lineBreaks": 0,
+      "line": 2,
+      "col": 8
+     },
+     "arith": {
+      "type": "arithmeticOp",
+      "value": "*",
+      "text": "*",
+      "offset": 212,
+      "lineBreaks": 0,
+      "line": 2,
+      "col": 7
+     }
+    },
+    {
+     "type": "operation",
+     "value": {
+      "type": "number",
+      "value": 98,
+      "text": "98",
+      "offset": 216,
+      "lineBreaks": 0,
+      "line": 2,
+      "col": 11
+     },
+     "arith": {
+      "type": "arithmeticOp",
+      "value": "-",
+      "text": "-",
+      "offset": 215,
+      "lineBreaks": 0,
+      "line": 2,
+      "col": 10
+     }
+    }
+   ],
+   "value": {
+    "type": "identifier",
+    "value": "jh",
+    "text": "jh",
+    "offset": 210,
+    "lineBreaks": 0,
+    "line": 2,
+    "col": 5
+   }
+  },
+  {
+   "type": "assignment",
+   "var_name": {
+    "type": "variable_keyword",
+    "value": "meri wali hai",
+    "text": "meri wali hai",
+    "offset": 239,
+    "lineBreaks": 0,
+    "line": 3,
+    "col": 3
+   },
+   "parameters": [
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "sdfg",
+      "text": "sdfg",
+      "offset": 255,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 19
+     },
+     "value": "null"
+    },
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "a",
+      "text": "a",
+      "offset": 264,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 28
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 266,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 30
+     },
+     "cond1": {
+      "condoperator": "null",
+      "var_name1": {
+       "type": "number",
+       "value": 78,
+       "text": "78",
+       "offset": 269,
+       "lineBreaks": 0,
+       "line": 3,
+       "col": 33
+      }
+     },
+     "conditions": [
+      {
+       "type": "many_conditions",
+       "cond2": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "operations_expression",
+         "opslist": [
+          {
+           "type": "operation",
+           "value": {
+            "type": "number",
+            "value": 77,
+            "text": "77",
+            "offset": 277,
+            "lineBreaks": 0,
+            "line": 3,
+            "col": 41
+           },
+           "arith": {
+            "type": "arithmeticOp",
+            "value": "*",
+            "text": "*",
+            "offset": 276,
+            "lineBreaks": 0,
+            "line": 3,
+            "col": 40
+           }
+          }
+         ],
+         "value": {
+          "type": "number",
+          "value": 9,
+          "text": "9",
+          "offset": 275,
+          "lineBreaks": 0,
+          "line": 3,
+          "col": 39
+         }
+        }
+       },
+       "unaoperator": {
+        "type": "unaryOp",
+        "value": "||",
+        "text": "||",
+        "offset": 272,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 36
+       }
+      }
+     ]
+    },
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "k",
+      "text": "k",
+      "offset": 282,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 46
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 284,
+      "lineBreaks": 0,
+      "line": 3,
+      "col": 48
+     },
+     "cond1": {
+      "condoperator": "null",
+      "var_name1": {
+       "type": "operations_expression",
+       "opslist": [
+        {
+         "type": "operation",
+         "value": {
+          "type": "number",
+          "value": 89,
+          "text": "89",
+          "offset": 288,
+          "lineBreaks": 0,
+          "line": 3,
+          "col": 52
+         },
+         "arith": {
+          "type": "arithmeticOp",
+          "value": "/",
+          "text": "/",
+          "offset": 287,
+          "lineBreaks": 0,
+          "line": 3,
+          "col": 51
+         }
+        }
+       ],
+       "value": {
+        "type": "number",
+        "value": 0,
+        "text": "0",
+        "offset": 286,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 50
+       }
+      }
+     },
+     "conditions": [
+      {
+       "type": "many_conditions",
+       "cond2": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "number",
+         "value": 8,
+         "text": "8",
+         "offset": 294,
+         "lineBreaks": 0,
+         "line": 3,
+         "col": 58
+        }
+       },
+       "unaoperator": {
+        "type": "unaryOp",
+        "value": "||",
+        "text": "||",
+        "offset": 291,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 55
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "updated_list",
+   "parameters": [
+    {
+     "type": "update",
+     "var_name": {
+      "type": "identifier",
+      "value": "h",
+      "text": "h",
+      "offset": 298,
+      "lineBreaks": 0,
+      "line": 4,
+      "col": 1
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 300,
+      "lineBreaks": 0,
+      "line": 4,
+      "col": 3
+     },
+     "cond1": {
+      "condoperator": "null",
+      "var_name1": {
+       "type": "identifier",
+       "value": "jk",
+       "text": "jk",
+       "offset": 302,
+       "lineBreaks": 0,
+       "line": 4,
+       "col": 5
+      }
+     },
+     "conditions": [
+      {
+       "type": "many_conditions",
+       "cond2": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "operations_expression",
+         "opslist": [
+          {
+           "type": "operation",
+           "value": {
+            "type": "identifier",
+            "value": "kjshf",
+            "text": "kjshf",
+            "offset": 311,
+            "lineBreaks": 0,
+            "line": 4,
+            "col": 14
+           },
+           "arith": {
+            "type": "arithmeticOp",
+            "value": "*",
+            "text": "*",
+            "offset": 309,
+            "lineBreaks": 0,
+            "line": 4,
+            "col": 12
+           }
+          }
+         ],
+         "value": {
+          "type": "identifier",
+          "value": "u",
+          "text": "u",
+          "offset": 307,
+          "lineBreaks": 0,
+          "line": 4,
+          "col": 10
+         }
+        }
+       },
+       "unaoperator": {
+        "type": "unaryOp",
+        "value": "&&",
+        "text": "&&",
+        "offset": 304,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 7
+       }
+      }
+     ]
+    },
+    {
+     "type": "update",
+     "var_name": {
+      "type": "identifier",
+      "value": "k",
+      "text": "k",
+      "offset": 318,
+      "lineBreaks": 0,
+      "line": 4,
+      "col": 21
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 320,
+      "lineBreaks": 0,
+      "line": 4,
+      "col": 23
+     },
+     "cond1": {
+      "condoperator": "null",
+      "var_name1": {
+       "type": "number",
+       "value": 78,
+       "text": "78",
+       "offset": 322,
+       "lineBreaks": 0,
+       "line": 4,
+       "col": 25
+      }
+     },
+     "conditions": [
+      {
+       "type": "many_conditions",
+       "cond2": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "operations_expression",
+         "opslist": [
+          {
+           "type": "operation",
+           "value": {
+            "type": "number",
+            "value": 6,
+            "text": "6",
+            "offset": 328,
+            "lineBreaks": 0,
+            "line": 4,
+            "col": 31
+           },
+           "arith": {
+            "type": "arithmeticOp",
+            "value": "/",
+            "text": "/",
+            "offset": 327,
+            "lineBreaks": 0,
+            "line": 4,
+            "col": 30
+           }
+          }
+         ],
+         "value": {
+          "type": "number",
+          "value": 9,
+          "text": "9",
+          "offset": 326,
+          "lineBreaks": 0,
+          "line": 4,
+          "col": 29
+         }
+        }
+       },
+       "unaoperator": {
+        "type": "unaryOp",
+        "value": "&&",
+        "text": "&&",
+        "offset": 324,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 27
+       }
+      },
+      {
+       "type": "many_conditions",
+       "cond2": {
+        "var_name1": {
+         "type": "identifier",
+         "value": "j",
+         "text": "j",
+         "offset": 333,
+         "lineBreaks": 0,
+         "line": 4,
+         "col": 36
+        },
+        "condoperator": {
+         "type": "assignmentOp",
+         "value": "=",
+         "text": "=",
+         "offset": 335,
+         "lineBreaks": 0,
+         "line": 4,
+         "col": 38
+        },
+        "var_name2": {
+         "type": "number",
+         "value": 0,
+         "text": "0",
+         "offset": 337,
+         "lineBreaks": 0,
+         "line": 4,
+         "col": 40
+        }
+       },
+       "unaoperator": {
+        "type": "unaryOp",
+        "value": "||",
+        "text": "||",
+        "offset": 330,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 33
+       }
+      }
+     ]
+    },
+    {
+     "type": "update",
+     "var_name": {
+      "type": "identifier",
+      "value": "kk",
+      "text": "kk",
+      "offset": 339,
+      "lineBreaks": 0,
+      "line": 4,
+      "col": 42
+     },
+     "value": "null"
+    }
+   ]
+  },
+  {
+   "type": "condition",
+   "var_name": {
+    "type": "ifblock",
+    "value": "ya toh meri wali sahi",
+    "text": "ya toh meri wali sahi",
+    "offset": 344,
+    "lineBreaks": 0,
+    "line": 5,
+    "col": 1
+   },
+   "cond1": {
+    "var_name1": {
+     "type": "operations_expression",
+     "opslist": [
+      {
+       "type": "operation",
+       "value": {
+        "type": "identifier",
+        "value": "kl",
+        "text": "kl",
+        "offset": 373,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 30
+       },
+       "arith": {
+        "type": "arithmeticOp",
+        "value": "/",
+        "text": "/",
+        "offset": 371,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 28
+       }
+      },
+      {
+       "type": "operation",
+       "value": {
+        "type": "string",
+        "value": "\" ksjd\"",
+        "text": "\" ksjd\"",
+        "offset": 377,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 34
+       },
+       "arith": {
+        "type": "arithmeticOp",
+        "value": "*",
+        "text": "*",
+        "offset": 376,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 33
+       }
+      },
+      {
+       "type": "operation",
+       "value": {
+        "type": "number",
+        "value": 90,
+        "text": "90",
+        "offset": 386,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 43
+       },
+       "arith": {
+        "type": "arithmeticOp",
+        "value": "+",
+        "text": "+",
+        "offset": 384,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 41
+       }
+      },
+      {
+       "type": "operation",
+       "value": {
+        "type": "number",
+        "value": 77,
+        "text": "77",
+        "offset": 390,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 47
+       },
+       "arith": {
+        "type": "arithmeticOp",
+        "value": "*",
+        "text": "*",
+        "offset": 389,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 46
+       }
+      }
+     ],
+     "value": {
+      "type": "number",
+      "value": 978,
+      "text": "978",
+      "offset": 367,
+      "lineBreaks": 0,
+      "line": 5,
+      "col": 24
+     }
+    },
+    "condoperator": {
+     "type": "conditionalOp",
+     "value": "<=",
+     "text": "<=",
+     "offset": 393,
+     "lineBreaks": 0,
+     "line": 5,
+     "col": 50
+    },
+    "var_name2": {
+     "type": "operations_expression",
+     "opslist": [
+      {
+       "type": "operation",
+       "value": {
+        "type": "identifier",
+        "value": "jk",
+        "text": "jk",
+        "offset": 399,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 56
+       },
+       "arith": {
+        "type": "arithmeticOp",
+        "value": "/",
+        "text": "/",
+        "offset": 398,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 55
+       }
+      },
+      {
+       "type": "operation",
+       "value": {
+        "type": "number",
+        "value": 8900,
+        "text": "8900",
+        "offset": 402,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 59
+       },
+       "arith": {
+        "type": "arithmeticOp",
+        "value": "/",
+        "text": "/",
+        "offset": 401,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 58
+       }
+      }
+     ],
+     "value": {
+      "type": "identifier",
+      "value": "ui",
+      "text": "ui",
+      "offset": 396,
+      "lineBreaks": 0,
+      "line": 5,
+      "col": 53
+     }
+    }
+   },
+   "conditions": [
+    {
+     "type": "many_conditions",
+     "cond2": {
+      "var_name1": {
+       "type": "identifier",
+       "value": "j",
+       "text": "j",
+       "offset": 410,
+       "lineBreaks": 0,
+       "line": 5,
+       "col": 67
+      },
+      "condoperator": {
+       "type": "assignmentOp",
+       "value": "=",
+       "text": "=",
+       "offset": 412,
+       "lineBreaks": 0,
+       "line": 5,
+       "col": 69
+      },
+      "var_name2": {
+       "type": "number",
+       "value": 90,
+       "text": "90",
+       "offset": 414,
+       "lineBreaks": 0,
+       "line": 5,
+       "col": 71
+      }
+     },
+     "unaoperator": {
+      "type": "unaryOp",
+      "value": "||",
+      "text": "||",
+      "offset": 407,
+      "lineBreaks": 0,
+      "line": 5,
+      "col": 64
+     }
+    }
+   ],
+   "statements": [
+    {
+     "type": "updated_list",
+     "parameters": [
+      {
+       "type": "update",
+       "var_name": {
+        "type": "identifier",
+        "value": "h",
+        "text": "h",
+        "offset": 433,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 9
+       },
+       "operator": {
+        "type": "assignmentOp",
+        "value": "=",
+        "text": "=",
+        "offset": 435,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 11
+       },
+       "cond1": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "number",
+         "value": 0,
+         "text": "0",
+         "offset": 437,
+         "lineBreaks": 0,
+         "line": 7,
+         "col": 13
+        }
+       },
+       "conditions": []
+      }
+     ]
+    },
+    {
+     "type": "updated_list",
+     "parameters": [
+      {
+       "type": "update",
+       "var_name": {
+        "type": "identifier",
+        "value": "op0",
+        "text": "op0",
+        "offset": 441,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 17
+       },
+       "operator": {
+        "type": "assignmentOp",
+        "value": "=",
+        "text": "=",
+        "offset": 445,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 21
+       },
+       "cond1": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "number",
+         "value": 9,
+         "text": "9",
+         "offset": 447,
+         "lineBreaks": 0,
+         "line": 7,
+         "col": 23
+        }
+       },
+       "conditions": []
+      }
+     ]
+    },
+    {
+     "type": "updated_list",
+     "parameters": [
+      {
+       "type": "update",
+       "var_name": {
+        "type": "identifier",
+        "value": "a",
+        "text": "a",
+        "offset": 461,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 9
+       },
+       "operator": {
+        "type": "assignmentOp",
+        "value": "=",
+        "text": "=",
+        "offset": 463,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 11
+       },
+       "cond1": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "operations_expression",
+         "opslist": [
+          {
+           "type": "operation",
+           "value": {
+            "type": "number",
+            "value": 0,
+            "text": "0",
+            "offset": 466,
+            "lineBreaks": 0,
+            "line": 8,
+            "col": 14
+           },
+           "arith": {
+            "type": "arithmeticOp",
+            "value": "+",
+            "text": "+",
+            "offset": 465,
+            "lineBreaks": 0,
+            "line": 8,
+            "col": 13
+           }
+          }
+         ],
+         "value": {
+          "type": "identifier",
+          "value": "a",
+          "text": "a",
+          "offset": 464,
+          "lineBreaks": 0,
+          "line": 8,
+          "col": 12
+         }
+        }
+       },
+       "conditions": []
+      }
+     ]
+    },
+    {
+     "type": "assignment",
+     "var_name": {
+      "type": "variable_keyword",
+      "value": "meri wali hai",
+      "text": "meri wali hai",
+      "offset": 473,
+      "lineBreaks": 0,
+      "line": 9,
+      "col": 5
+     },
+     "parameters": [
+      {
+       "type": "assigned",
+       "var_name": {
+        "type": "identifier",
+        "value": "j",
+        "text": "j",
+        "offset": 487,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 19
+       },
+       "operator": {
+        "type": "assignmentOp",
+        "value": "=",
+        "text": "=",
+        "offset": 489,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 21
+       },
+       "cond1": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "null",
+         "value": "meri wali alag hai",
+         "text": "meri wali alag hai",
+         "offset": 491,
+         "lineBreaks": 0,
+         "line": 9,
+         "col": 23
+        }
+       },
+       "conditions": []
+      },
+      {
+       "type": "assigned",
+       "var_name": {
+        "type": "identifier",
+        "value": "a",
+        "text": "a",
+        "offset": 511,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 43
+       },
+       "operator": {
+        "type": "assignmentOp",
+        "value": "=",
+        "text": "=",
+        "offset": 513,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 45
+       },
+       "cond1": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "number",
+         "value": 9,
+         "text": "9",
+         "offset": 515,
+         "lineBreaks": 0,
+         "line": 9,
+         "col": 47
+        }
+       },
+       "conditions": []
+      },
+      {
+       "type": "assigned",
+       "var_name": {
+        "type": "identifier",
+        "value": "kjj",
+        "text": "kjj",
+        "offset": 517,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 49
+       },
+       "value": "null"
+      },
+      {
+       "type": "assigned",
+       "var_name": {
+        "type": "identifier",
+        "value": "jfkd",
+        "text": "jfkd",
+        "offset": 522,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 54
+       },
+       "operator": {
+        "type": "assignmentOp",
+        "value": "=",
+        "text": "=",
+        "offset": 527,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 59
+       },
+       "cond1": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "identifier",
+         "value": "a",
+         "text": "a",
+         "offset": 529,
+         "lineBreaks": 0,
+         "line": 9,
+         "col": 61
+        }
+       },
+       "conditions": []
+      }
+     ]
+    },
+    {
+     "type": "assignment",
+     "var_name": {
+      "type": "variable_keyword",
+      "value": "meri wali hai",
+      "text": "meri wali hai",
+      "offset": 536,
+      "lineBreaks": 0,
+      "line": 10,
+      "col": 5
+     },
+     "parameters": [
+      {
+       "type": "assigned",
+       "var_name": {
+        "type": "identifier",
+        "value": "p",
+        "text": "p",
+        "offset": 550,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 19
+       },
+       "value": "null"
+      },
+      {
+       "type": "assigned",
+       "var_name": {
+        "type": "identifier",
+        "value": "o",
+        "text": "o",
+        "offset": 552,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 21
+       },
+       "value": "null"
+      },
+      {
+       "type": "assigned",
+       "var_name": {
+        "type": "identifier",
+        "value": "lp",
+        "text": "lp",
+        "offset": 554,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 23
+       },
+       "value": "null"
+      }
+     ]
+    },
+    {
+     "type": "updated_list",
+     "parameters": [
+      {
+       "type": "update",
+       "var_name": {
+        "type": "identifier",
+        "value": "a",
+        "text": "a",
+        "offset": 563,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 5
+       },
+       "operator": {
+        "type": "assignmentOp",
+        "value": "+=",
+        "text": "+=",
+        "offset": 565,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 7
+       },
+       "cond1": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "number",
+         "value": 9,
+         "text": "9",
+         "offset": 568,
+         "lineBreaks": 0,
+         "line": 11,
+         "col": 10
+        }
+       },
+       "conditions": []
+      }
+     ]
+    },
+    {
+     "type": "continue_break_cond",
+     "value": {
+      "type": "breakCont",
+      "value": "rukna mat",
+      "text": "rukna mat",
+      "offset": 574,
+      "lineBreaks": 0,
+      "line": 12,
+      "col": 1
+     }
+    },
+    {
+     "type": "continue_break_cond",
+     "value": {
+      "type": "breakCont",
+      "value": "break up",
+      "text": "break up",
+      "offset": 585,
+      "lineBreaks": 0,
+      "line": 13,
+      "col": 1
+     }
+    }
+   ]
+  },
+  {
+   "type": "operations",
+   "opslist": [
+    {
+     "type": "operation",
+     "value": {
+      "type": "number",
+      "value": 873465,
+      "text": "873465",
+      "offset": 607,
+      "lineBreaks": 0,
+      "line": 15,
+      "col": 7
+     },
+     "arith": {
+      "type": "arithmeticOp",
+      "value": "*",
+      "text": "*",
+      "offset": 606,
+      "lineBreaks": 0,
+      "line": 15,
+      "col": 6
+     }
+    }
+   ],
+   "value": {
+    "type": "number",
+    "value": 987,
+    "text": "987",
+    "offset": 603,
+    "lineBreaks": 0,
+    "line": 15,
+    "col": 3
+   }
+  },
+  {
+   "type": "print_function",
+   "fun_name": {
+    "type": "print_keyword",
+    "value": "thats what she said",
+    "text": "thats what she said",
+    "offset": 616,
+    "lineBreaks": 0,
+    "line": 15,
+    "col": 16
+   },
+   "parameters": [
+    {
+     "type": "print_params",
+     "cond1": {
+      "condoperator": "null",
+      "var_name1": {
+       "type": "operations_expression",
+       "opslist": [
+        {
+         "type": "operation",
+         "value": {
+          "type": "number",
+          "value": 786,
+          "text": "786",
+          "offset": 638,
+          "lineBreaks": 0,
+          "line": 15,
+          "col": 38
+         },
+         "arith": {
+          "type": "arithmeticOp",
+          "value": "+",
+          "text": "+",
+          "offset": 637,
+          "lineBreaks": 0,
+          "line": 15,
+          "col": 37
+         }
+        }
+       ],
+       "value": {
+        "type": "identifier",
+        "value": "c",
+        "text": "c",
+        "offset": 636,
+        "lineBreaks": 0,
+        "line": 15,
+        "col": 36
+       }
+      }
+     },
+     "conditions": [
+      {
+       "type": "many_conditions",
+       "cond2": {
+        "condoperator": "null",
+        "var_name1": {
+         "type": "number",
+         "value": 9,
+         "text": "9",
+         "offset": 645,
+         "lineBreaks": 0,
+         "line": 15,
+         "col": 45
+        }
+       },
+       "unaoperator": {
+        "type": "unaryOp",
+        "value": "||",
+        "text": "||",
+        "offset": 642,
+        "lineBreaks": 0,
+        "line": 15,
+        "col": 42
+       }
+      },
+      {
+       "type": "many_conditions",
+       "cond2": {
+        "var_name1": {
+         "type": "number",
+         "value": 8,
+         "text": "8",
+         "offset": 650,
+         "lineBreaks": 0,
+         "line": 15,
+         "col": 50
+        },
+        "condoperator": {
+         "type": "conditionalOp",
+         "value": "<=",
+         "text": "<=",
+         "offset": 652,
+         "lineBreaks": 0,
+         "line": 15,
+         "col": 52
+        },
+        "var_name2": {
+         "type": "operations_expression",
+         "opslist": [
+          {
+           "type": "operation",
+           "value": {
+            "type": "number",
+            "value": 0,
+            "text": "0",
+            "offset": 658,
+            "lineBreaks": 0,
+            "line": 15,
+            "col": 58
+           },
+           "arith": {
+            "type": "arithmeticOp",
+            "value": "-",
+            "text": "-",
+            "offset": 657,
+            "lineBreaks": 0,
+            "line": 15,
+            "col": 57
+           }
+          },
+          {
+           "type": "operation",
+           "value": {
+            "type": "string",
+            "value": "\" !!\"",
+            "text": "\" !!\"",
+            "offset": 661,
+            "lineBreaks": 0,
+            "line": 15,
+            "col": 61
+           },
+           "arith": {
+            "type": "arithmeticOp",
+            "value": "+",
+            "text": "+",
+            "offset": 659,
+            "lineBreaks": 0,
+            "line": 15,
+            "col": 59
+           }
+          },
+          {
+           "type": "operation",
+           "value": {
+            "type": "string",
+            "value": "\"jh\"",
+            "text": "\"jh\"",
+            "offset": 669,
+            "lineBreaks": 0,
+            "line": 15,
+            "col": 69
+           },
+           "arith": {
+            "type": "arithmeticOp",
+            "value": "+",
+            "text": "+",
+            "offset": 667,
+            "lineBreaks": 0,
+            "line": 15,
+            "col": 67
+           }
+          }
+         ],
+         "value": {
+          "type": "number",
+          "value": 90,
+          "text": "90",
+          "offset": 655,
+          "lineBreaks": 0,
+          "line": 15,
+          "col": 55
+         }
+        }
+       },
+       "unaoperator": {
+        "type": "unaryOp",
+        "value": "&&",
+        "text": "&&",
+        "offset": 647,
+        "lineBreaks": 0,
+        "line": 15,
+        "col": 47
+       }
+      }
+     ]
+    },
+    {
+     "type": "print_params",
+     "cond1": {
+      "condoperator": "null",
+      "var_name1": {
+       "type": "false",
+       "value": "mai",
+       "text": "mai",
+       "offset": 675,
+       "lineBreaks": 0,
+       "line": 15,
+       "col": 75
+      }
+     },
+     "conditions": []
+    }
+   ]
+  }
+ ]
+}

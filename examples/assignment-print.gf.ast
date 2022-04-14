@@ -1,0 +1,587 @@
+{
+ "type": "program",
+ "body": [
+  {
+   "type": "assignment",
+   "var_name": {
+    "type": "variable_keyword",
+    "value": "meri wali hai",
+    "text": "meri wali hai",
+    "offset": 27,
+    "lineBreaks": 0,
+    "line": 5,
+    "col": 1
+   },
+   "parameters": [
+    {
+     "type": "assigned",
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 65,
+      "lineBreaks": 0,
+      "line": 11,
+      "col": 7
+     },
+     "var_name": {
+      "type": "identifier",
+      "value": "m",
+      "text": "m",
+      "offset": 64,
+      "lineBreaks": 0,
+      "line": 11,
+      "col": 6
+     },
+     "value": {
+      "type": "number",
+      "value": 789,
+      "text": "789",
+      "offset": 67,
+      "lineBreaks": 0,
+      "line": 11,
+      "col": 9
+     }
+    }
+   ]
+  },
+  {
+   "type": "updated_list",
+   "parameters": [
+    {
+     "type": "update",
+     "var_name": {
+      "type": "identifier",
+      "value": "jjj",
+      "text": "jjj",
+      "offset": 73,
+      "lineBreaks": 0,
+      "line": 11,
+      "col": 15
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 77,
+      "lineBreaks": 0,
+      "line": 11,
+      "col": 19
+     },
+     "value": {
+      "type": "string",
+      "value": "\"ajd\"",
+      "text": "\"ajd\"",
+      "offset": 79,
+      "lineBreaks": 0,
+      "line": 11,
+      "col": 21
+     }
+    }
+   ]
+  },
+  {
+   "type": "updated_list",
+   "parameters": [
+    {
+     "type": "update",
+     "var_name": {
+      "type": "identifier",
+      "value": "o990",
+      "text": "o990",
+      "offset": 90,
+      "lineBreaks": 0,
+      "line": 14,
+      "col": 1
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 95,
+      "lineBreaks": 0,
+      "line": 14,
+      "col": 6
+     },
+     "value": {
+      "type": "number",
+      "value": 9,
+      "text": "9",
+      "offset": 97,
+      "lineBreaks": 0,
+      "line": 14,
+      "col": 8
+     }
+    }
+   ]
+  },
+  {
+   "type": "assignment",
+   "var_name": {
+    "type": "variable_keyword",
+    "value": "meri wali hai",
+    "text": "meri wali hai",
+    "offset": 139,
+    "lineBreaks": 0,
+    "line": 18,
+    "col": 13
+   },
+   "parameters": [
+    {
+     "type": "assigned",
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 154,
+      "lineBreaks": 0,
+      "line": 18,
+      "col": 28
+     },
+     "var_name": {
+      "type": "identifier",
+      "value": "n",
+      "text": "n",
+      "offset": 153,
+      "lineBreaks": 0,
+      "line": 18,
+      "col": 27
+     },
+     "value": {
+      "type": "string",
+      "value": "\"789\"",
+      "text": "\"789\"",
+      "offset": 165,
+      "lineBreaks": 0,
+      "line": 19,
+      "col": 8
+     }
+    },
+    {
+     "type": "assigned",
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 176,
+      "lineBreaks": 0,
+      "line": 19,
+      "col": 19
+     },
+     "var_name": {
+      "type": "identifier",
+      "value": "i0",
+      "text": "i0",
+      "offset": 173,
+      "lineBreaks": 0,
+      "line": 19,
+      "col": 16
+     },
+     "value": {
+      "type": "number",
+      "value": 97898,
+      "text": "97898",
+      "offset": 178,
+      "lineBreaks": 0,
+      "line": 19,
+      "col": 21
+     }
+    },
+    {
+     "type": "assigned",
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 185,
+      "lineBreaks": 0,
+      "line": 19,
+      "col": 28
+     },
+     "var_name": {
+      "type": "identifier",
+      "value": "b",
+      "text": "b",
+      "offset": 184,
+      "lineBreaks": 0,
+      "line": 19,
+      "col": 27
+     },
+     "value": {
+      "type": "number",
+      "value": 0,
+      "text": "0",
+      "offset": 186,
+      "lineBreaks": 0,
+      "line": 19,
+      "col": 29
+     }
+    }
+   ]
+  },
+  {
+   "type": "updated_list",
+   "parameters": [
+    {
+     "type": "update",
+     "var_name": {
+      "type": "identifier",
+      "value": "b",
+      "text": "b",
+      "offset": 190,
+      "lineBreaks": 0,
+      "line": 19,
+      "col": 33
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 191,
+      "lineBreaks": 0,
+      "line": 19,
+      "col": 34
+     },
+     "value": {
+      "type": "number",
+      "value": 9,
+      "text": "9",
+      "offset": 192,
+      "lineBreaks": 0,
+      "line": 19,
+      "col": 35
+     }
+    }
+   ]
+  },
+  {
+   "type": "print_function",
+   "fun_name": {
+    "type": "print_keyword",
+    "value": "thats what she said",
+    "text": "thats what she said",
+    "offset": 210,
+    "lineBreaks": 0,
+    "line": 21,
+    "col": 1
+   },
+   "parameters": [
+    {
+     "type": "number",
+     "value": 8,
+     "text": "8",
+     "offset": 231,
+     "lineBreaks": 0,
+     "line": 22,
+     "col": 1
+    },
+    {
+     "type": "string",
+     "value": "\"\"",
+     "text": "\"\"",
+     "offset": 234,
+     "lineBreaks": 0,
+     "line": 22,
+     "col": 4
+    },
+    {
+     "type": "string",
+     "value": "\"387\"",
+     "text": "\"387\"",
+     "offset": 242,
+     "lineBreaks": 0,
+     "line": 23,
+     "col": 5
+    },
+    {
+     "type": "number",
+     "value": 765,
+     "text": "765",
+     "offset": 248,
+     "lineBreaks": 0,
+     "line": 23,
+     "col": 11
+    },
+    {
+     "type": "identifier",
+     "value": "m",
+     "text": "m",
+     "offset": 252,
+     "lineBreaks": 0,
+     "line": 23,
+     "col": 15
+    },
+    {
+     "type": "identifier",
+     "value": "n",
+     "text": "n",
+     "offset": 254,
+     "lineBreaks": 0,
+     "line": 23,
+     "col": 17
+    }
+   ]
+  },
+  {
+   "type": "assignment",
+   "var_name": {
+    "type": "variable_keyword",
+    "value": "meri wali hai",
+    "text": "meri wali hai",
+    "offset": 258,
+    "lineBreaks": 0,
+    "line": 25,
+    "col": 1
+   },
+   "parameters": [
+    {
+     "type": "assigned",
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 274,
+      "lineBreaks": 0,
+      "line": 25,
+      "col": 17
+     },
+     "var_name": {
+      "type": "identifier",
+      "value": "j",
+      "text": "j",
+      "offset": 272,
+      "lineBreaks": 0,
+      "line": 25,
+      "col": 15
+     },
+     "value": {
+      "type": "null",
+      "value": "meri wali alag hai",
+      "text": "meri wali alag hai",
+      "offset": 276,
+      "lineBreaks": 0,
+      "line": 25,
+      "col": 19
+     }
+    },
+    {
+     "type": "assigned",
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 298,
+      "lineBreaks": 0,
+      "line": 25,
+      "col": 41
+     },
+     "var_name": {
+      "type": "identifier",
+      "value": "a",
+      "text": "a",
+      "offset": 296,
+      "lineBreaks": 0,
+      "line": 25,
+      "col": 39
+     },
+     "value": {
+      "type": "number",
+      "value": 9,
+      "text": "9",
+      "offset": 300,
+      "lineBreaks": 0,
+      "line": 25,
+      "col": 43
+     }
+    },
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "kjj",
+      "text": "kjj",
+      "offset": 302,
+      "lineBreaks": 0,
+      "line": 25,
+      "col": 45
+     },
+     "value": "null"
+    },
+    {
+     "type": "assigned",
+     "operator": {
+      "type": "assignmentOp",
+      "value": "=",
+      "text": "=",
+      "offset": 312,
+      "lineBreaks": 0,
+      "line": 25,
+      "col": 55
+     },
+     "var_name": {
+      "type": "identifier",
+      "value": "jfkd",
+      "text": "jfkd",
+      "offset": 307,
+      "lineBreaks": 0,
+      "line": 25,
+      "col": 50
+     },
+     "value": {
+      "type": "identifier",
+      "value": "a",
+      "text": "a",
+      "offset": 314,
+      "lineBreaks": 0,
+      "line": 25,
+      "col": 57
+     }
+    }
+   ]
+  },
+  {
+   "type": "assignment",
+   "var_name": {
+    "type": "variable_keyword",
+    "value": "meri wali hai",
+    "text": "meri wali hai",
+    "offset": 317,
+    "lineBreaks": 0,
+    "line": 26,
+    "col": 1
+   },
+   "parameters": [
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "p",
+      "text": "p",
+      "offset": 331,
+      "lineBreaks": 0,
+      "line": 26,
+      "col": 15
+     },
+     "value": "null"
+    },
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "o",
+      "text": "o",
+      "offset": 333,
+      "lineBreaks": 0,
+      "line": 26,
+      "col": 17
+     },
+     "value": "null"
+    },
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "lp",
+      "text": "lp",
+      "offset": 335,
+      "lineBreaks": 0,
+      "line": 26,
+      "col": 19
+     },
+     "value": "null"
+    },
+    {
+     "type": "assigned",
+     "var_name": {
+      "type": "identifier",
+      "value": "h",
+      "text": "h",
+      "offset": 338,
+      "lineBreaks": 0,
+      "line": 26,
+      "col": 22
+     },
+     "value": "null"
+    }
+   ]
+  },
+  {
+   "type": "updated_list",
+   "parameters": [
+    {
+     "type": "update",
+     "var_name": {
+      "type": "identifier",
+      "value": "b",
+      "text": "b",
+      "offset": 349,
+      "lineBreaks": 0,
+      "line": 28,
+      "col": 1
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "-=",
+      "text": "-=",
+      "offset": 351,
+      "lineBreaks": 0,
+      "line": 28,
+      "col": 3
+     },
+     "value": {
+      "type": "identifier",
+      "value": "d",
+      "text": "d",
+      "offset": 354,
+      "lineBreaks": 0,
+      "line": 28,
+      "col": 6
+     }
+    },
+    {
+     "type": "update",
+     "var_name": {
+      "type": "identifier",
+      "value": "h",
+      "text": "h",
+      "offset": 357,
+      "lineBreaks": 0,
+      "line": 28,
+      "col": 9
+     },
+     "operator": {
+      "type": "assignmentOp",
+      "value": "/=",
+      "text": "/=",
+      "offset": 359,
+      "lineBreaks": 0,
+      "line": 28,
+      "col": 11
+     },
+     "value": {
+      "type": "string",
+      "value": "\"sdg\"",
+      "text": "\"sdg\"",
+      "offset": 362,
+      "lineBreaks": 0,
+      "line": 28,
+      "col": 14
+     }
+    },
+    {
+     "type": "update",
+     "var_name": {
+      "type": "identifier",
+      "value": "op0",
+      "text": "op0",
+      "offset": 370,
+      "lineBreaks": 0,
+      "line": 28,
+      "col": 22
+     },
+     "value": "null"
+    }
+   ]
+  }
+ ]
+}
