@@ -150,8 +150,8 @@ ghar pe akeli hu
 sabka katega
 ```
 
-<!-- <h2 align="center">Development</h2>
-<p align="center">You can explore abstract syntax tree(AST) of bandilang <a href="https://bhailang-ast.netlify.app/" target="_blank">here</a>.</p> -->
+<h2 align="center">Development</h2>
+<p align="center">Exception Handling is ongoing.</p>
 
 
 
